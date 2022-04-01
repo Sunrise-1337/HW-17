@@ -141,7 +141,7 @@
 	background-image: url(../images/sec-1.png);
 	background-repeat: no-repeat;
 	background-size: cover;
-	background-position: center top;
+	background-position: right bottom;
 }
 
 .section-1__org {
@@ -420,7 +420,7 @@
 	left: 0;
 	width: 100%;
 	height: 50%;
-	background-image: url(../images/sec-4-bg.png);
+	background-image: url(../../../images/sec-4-bg.png);
 	background-repeat: no-repeat;
 	background-size: cover;
 	background-position: center top;
